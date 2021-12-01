@@ -1,0 +1,21 @@
+body{
+    background-color: #eaf6f6;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 8px;
+    width: 7%;
+}
+img{
+    width: 200px;
+}
+h1{
+    color: #66bfbf;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+h3{
+    color: #66bfbf;
+}
